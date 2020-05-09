@@ -46,7 +46,7 @@
       }
     
       header {
-        padding:50px;
+        padding:43px;
       }
 
 @media only screen and (min-width:700px) {
@@ -98,7 +98,7 @@
       }
     
       header {
-        padding:80px;
+        padding:40px;
       }
 }
 
@@ -151,7 +151,7 @@ footer{
   }
 
   header {
-    padding:100px;
+    padding:50px;
   }
 
 }
